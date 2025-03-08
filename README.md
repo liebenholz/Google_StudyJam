@@ -3,6 +3,8 @@
 
 2025 상반기, 구글 클라우드 AI 스터디잼과 함께 Gen AI, Gemini, Vertex AI를 무료로 공부하고, 스티커, 티셔츠, 스텐 머그, 스포츠백, 백팩 등 풍성하게 준비된 수료 기념품도 받아가세요! 
 
+[**내 프로필 바로가기**](https://www.cloudskillsboost.google/public_profiles/f6c1a0d3-e796-436d-9af9-facc54daee5b)
+
 ## 📆 주요 일정
 - 스터디 잼 기간 : 3월 7일(금) - 6월 8일(일)
   - 자가 학습 프로그램이므로 해당 기간 내 원하는 시간에 자유롭게 학습 가능
