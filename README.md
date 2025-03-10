@@ -1,7 +1,7 @@
 # Google Cloud AI Study Jam
 구글 스터디잼은 개발자분들이 온라인으로 AI, Google Cloud를 자가 학습하실 수 있도록 도움을 드리는 프로그램입니다. 
 
-2025 상반기, 구글 클라우드 AI 스터디잼과 함께 Gen AI, Gemini, Vertex AI를 무료로 공부하고, 스티커, 티셔츠, 스텐 머그, 스포츠백, 백팩 등 풍성하게 준비된 수료 기념품도 받아가세요! 
+2025 상반기, 구글 클라우드 AI 스터디잼과 함께 Gen AI, Gemini, Vertex AI를 무료로 공부하고, 풍성하게 준비된 수료 기념품도 받아가세요! 
 
 [**내 프로필 바로가기**](https://www.cloudskillsboost.google/public_profiles/f6c1a0d3-e796-436d-9af9-facc54daee5b)
 
