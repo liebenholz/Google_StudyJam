@@ -31,7 +31,7 @@
 - [Gemini for Google Workspace (8/0)](https://www.cloudskillsboost.google/paths/249)
 - [Intermediate: Gemini for Google Cloud Learning Path (7/1)](https://www.cloudskillsboost.google/paths/236)
 - [Gemini in BigQuery (3/1)](https://www.cloudskillsboost.google/paths/1803)
-- [Build Real World AI Applications with Gemini and Imagen (0/1)](https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069049)
+- ✔️[Build Real World AI Applications with Gemini and Imagen (0/1)](https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069049)
 - ✔️[Inspect Rich Documents with Gemini Multimodality and Multimodal RAG (0/1)](https://www.cloudskillsboost.google/paths/183/course_templates/981?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
 - [Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
 
