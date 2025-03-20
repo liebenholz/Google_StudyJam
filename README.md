@@ -36,9 +36,9 @@
 - [Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
 
 ### Vertex AI
-- Vertex AI Search for Retail (6/0)
-- Explore Generative AI with the Vertex AI Gemini API (0/1)
-- Build and Deploy Machine Learning Solutions on Vertex AI (0/1)
+- [Vertex AI Search for Retail (6/0)](https://www.cloudskillsboost.google/paths/655)
+- [Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
+- ✔️[Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
 
 ## 🥰 참여 혜택
 Google Cloud Skills Boost 플랫폼 내 모든 컨텐츠에 무료로 접근 가능한 **크레딧**을 획득할 수 있습니다. 
