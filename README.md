@@ -23,25 +23,25 @@
 스터디 잼 기간동안 아래 '추천 학습 과정' 중 희망하는 콘텐츠를 무료로 수강하고 디지털 뱃지를 획득하세요. 
 
 ### 생성형 AI
-- ✔️[Beginner: Introduction to Generative AI Learning Path (4/1)](https://www.cloudskillsboost.google/paths/118)
-- ✔️[Advanced: Generative AI for Developers Learning Path (11/1)](https://www.cloudskillsboost.google/paths/183)
-- ✔️[Integrate Generative AI Into Your Data Workflow (4/1)](https://www.cloudskillsboost.google/paths/1281)
+- [Beginner: Introduction to Generative AI Learning Path (4/1)](https://www.cloudskillsboost.google/paths/118)
+- [Advanced: Generative AI for Developers Learning Path (11/1)](https://www.cloudskillsboost.google/paths/183)
+- [Integrate Generative AI Into Your Data Workflow (4/1)](https://www.cloudskillsboost.google/paths/1281)
 - [Build and Modernize Applications With Generative AI (5/1)](https://www.cloudskillsboost.google/paths/1282)
-- ✔️[Deploy and Manage Generative AI Models (6/1)](https://www.cloudskillsboost.google/paths/1283)
-- ✔️[Generate Smarter Generative AI Outputs (3/1)](https://www.cloudskillsboost.google/paths/1284)
+- [Deploy and Manage Generative AI Models (6/1)](https://www.cloudskillsboost.google/paths/1283)
+- [Generate Smarter Generative AI Outputs (3/1)](https://www.cloudskillsboost.google/paths/1284)
 
 ### Gemini
 - [Gemini for Google Workspace (8/0)](https://www.cloudskillsboost.google/paths/249)
 - [Intermediate: Gemini for Google Cloud Learning Path (7/1)](https://www.cloudskillsboost.google/paths/236)
 - [Gemini in BigQuery (3/1)](https://www.cloudskillsboost.google/paths/1803)
-- ✔️[Build Real World AI Applications with Gemini and Imagen (0/1)](https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069049)
-- ✔️[Inspect Rich Documents with Gemini Multimodality and Multimodal RAG (0/1)](https://www.cloudskillsboost.google/paths/183/course_templates/981?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
-- ✔️[Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
+- [Build Real World AI Applications with Gemini and Imagen (0/1)](https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069049)
+- [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG (0/1)](https://www.cloudskillsboost.google/paths/183/course_templates/981?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
+- [Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
 
 ### Vertex AI
 - [Vertex AI Search for Retail (6/0)](https://www.cloudskillsboost.google/paths/655)
-- ✔️[Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
-- ✔️[Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
+- [Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
+- [Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
 
 ### Other Introductory/Intermediate Skill Course
 - [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/course_templates/623)
