@@ -43,7 +43,7 @@
 - ✔️[Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
 - ✔️[Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
 
-### Other Introductory Skill Course
+### Other Introductory/Intermediate Skill Course
 - [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/course_templates/623)
 - [Prepare Data for Looker Dashboards and Reports](https://www.cloudskillsboost.google/course_templates/628)
 - [Build LookML Objects in Looker](https://www.cloudskillsboost.google/course_templates/639)
