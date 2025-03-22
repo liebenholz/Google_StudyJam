@@ -5,7 +5,7 @@
 
 [**내 프로필 바로가기**](https://www.cloudskillsboost.google/public_profiles/f6c1a0d3-e796-436d-9af9-facc54daee5b)
 
-\[25.03.20\] 뱃지 현황: 28개(스킬 뱃지 6개)
+\[25.03.20\] 뱃지 현황: 29개(스킬 뱃지 7개)
 
 ## 📆 주요 일정
 - 스터디 잼 기간 : 3월 7일(금) - 6월 8일(일)
@@ -36,7 +36,7 @@
 - [Gemini in BigQuery (3/1)](https://www.cloudskillsboost.google/paths/1803)
 - ✔️[Build Real World AI Applications with Gemini and Imagen (0/1)](https://www.cloudskillsboost.google/course_templates/1076?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069049)
 - ✔️[Inspect Rich Documents with Gemini Multimodality and Multimodal RAG (0/1)](https://www.cloudskillsboost.google/paths/183/course_templates/981?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
-- [Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
+- ✔️[Develop GenAI Apps with Gemini and Streamlit (0/1)](https://www.cloudskillsboost.google/paths/236/course_templates/978?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=42069103)
 
 ### Vertex AI
 - [Vertex AI Search for Retail (6/0)](https://www.cloudskillsboost.google/paths/655)
