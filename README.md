@@ -26,7 +26,7 @@
 - ✔️[Beginner: Introduction to Generative AI Learning Path (4/1)](https://www.cloudskillsboost.google/paths/118)
 - ✔️[Advanced: Generative AI for Developers Learning Path (11/1)](https://www.cloudskillsboost.google/paths/183)
 - ✔️[Integrate Generative AI Into Your Data Workflow (4/1)](https://www.cloudskillsboost.google/paths/1281)
-- [Build and Modernize Applications With Generative AI (5/1)](https://www.cloudskillsboost.google/paths/1282/course_templates/978)
+- [Build and Modernize Applications With Generative AI (5/1)](https://www.cloudskillsboost.google/paths/1282)
 - ✔️[Deploy and Manage Generative AI Models (6/1)](https://www.cloudskillsboost.google/paths/1283)
 - ✔️[Generate Smarter Generative AI Outputs (3/1)](https://www.cloudskillsboost.google/paths/1284)
 
