@@ -5,7 +5,7 @@
 
 [**내 프로필 바로가기**](https://www.cloudskillsboost.google/public_profiles/f6c1a0d3-e796-436d-9af9-facc54daee5b)
 
-\[25.03.20\] 뱃지 현황: 27개(스킬 뱃지 5개)
+\[25.03.20\] 뱃지 현황: 28개(스킬 뱃지 6개)
 
 ## 📆 주요 일정
 - 스터디 잼 기간 : 3월 7일(금) - 6월 8일(일)
@@ -40,14 +40,14 @@
 
 ### Vertex AI
 - [Vertex AI Search for Retail (6/0)](https://www.cloudskillsboost.google/paths/655)
-- [Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
+- ✔️[Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
 - ✔️[Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
 
 ## 🥰 참여 혜택
 Google Cloud Skills Boost 플랫폼 내 모든 컨텐츠에 무료로 접근 가능한 **크레딧**을 획득할 수 있습니다. 
 *프로필 기준, 스터디 잼 기간 내* 획득한 뱃지 갯수에 따라 **수료 기념품**을 받을 수 있습니다.
 
-- LV.1 : 16개 이상의 뱃지(6개 이상의 스킬 뱃지 포함)를 획득
+- **LV.1 : 16개 이상의 뱃지(6개 이상의 스킬 뱃지 포함)를 획득**
 - LV.2 : 24개 이상의 뱃지(10개 이상의 스킬 뱃지 포함)를 획득
 - LV.3 : 32개 이상의 뱃지(14개 이상의 스킬 뱃지 포함)를 획득
 - LV.4 : 50개 이상의 뱃지(20개 이상의 스킬 뱃지 포함)를 획득
