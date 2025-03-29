@@ -43,15 +43,6 @@
 - [Explore Generative AI with the Vertex AI Gemini API (0/1)](https://www.cloudskillsboost.google/course_templates/959)
 - [Build and Deploy Machine Learning Solutions on Vertex AI (0/1)](https://www.cloudskillsboost.google/paths/1283/course_templates/684)
 
-### Other Introductory/Intermediate Skill Course
-- [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/course_templates/623)
-- [Prepare Data for Looker Dashboards and Reports](https://www.cloudskillsboost.google/course_templates/628)
-- [Build LookML Objects in Looker](https://www.cloudskillsboost.google/course_templates/639)
-- [Store, Process, and Manage Data on Google Cloud - Command Line](https://www.cloudskillsboost.google/course_templates/659)
-- [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676)
-- [Mitigate Threats and Vulnerabilities with Security Command Center](https://www.cloudskillsboost.google/course_templates/759)
-- [Use Functions, Formulas, and Charts in Google Sheets](https://www.cloudskillsboost.google/course_templates/776)
-
 ## 🥰 참여 혜택
 Google Cloud Skills Boost 플랫폼 내 모든 컨텐츠에 무료로 접근 가능한 **크레딧**을 획득할 수 있습니다. 
 *프로필 기준, 스터디 잼 기간 내* 획득한 뱃지 갯수에 따라 **수료 기념품**을 받을 수 있습니다.
